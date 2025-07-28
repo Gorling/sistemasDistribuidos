@@ -1,4 +1,4 @@
-Sistemas Distribuídos
+*Sistemas Distribuídos*
     Sistemas fracamente acoplados - Grid computacional
     - geograficamente distribuídos
     - hardware e so diferentes nas máquinas
@@ -16,7 +16,7 @@ Sistemas Distribuídos
             - exclusão mútua
 
 
-Sistemas Paralelos
+*Sistemas Paralelos*
     Sistemas fortemente acoplados - Cluster computacional
     - geograficamente na mesma localização
     - hardware e so iguais para todas as máquinas
