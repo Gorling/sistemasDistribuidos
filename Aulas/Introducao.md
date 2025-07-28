@@ -3,6 +3,17 @@ Sistemas Distribuídos
     - geograficamente distribuídos
     - hardware e so diferentes nas máquinas
     - esquema de comunicação modelo TCP/IP
+    - programacão distribuida
+    - arquitetura de sistemas
+        - cliente servidor
+        - ponto a ponto
+    - comunicação -> troca
+        - string -> mensagem
+        - objetos -> serialização
+        - sincronismo
+            - relógio
+            - monitor ou semáforo
+            - exclusão mútua
 
 
 Sistemas Paralelos
